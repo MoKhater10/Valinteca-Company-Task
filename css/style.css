@@ -206,7 +206,7 @@ button{
     background-color: white;
     margin-left: -255px;
     margin-top: 26px;
-   /* display: none;*/
+    display: none;
 }
 #cart:hover .cart-items{
   display: block;
